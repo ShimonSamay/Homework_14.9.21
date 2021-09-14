@@ -134,8 +134,8 @@
 // })
 // console.log(sum);
 
-// let res = 0
-// for (const element in numArray ){
-//     res+=element ;
-// }
-// console.log(sum);
+// let res = 0 ;
+// for (const e of numArray){
+//     res+=e
+// };
+// console.log(res);
